@@ -1,5 +1,5 @@
 # QSL-PnB-Setup
-This online repository is the easiest way to keep your application up to date. If you are already familiar with Git Bash or Github Desktop, then you should be able to set up this repository pretty easily. 
+This online repository is dedicated specifically to the Quacken Smite League. If you are already familiar with Git Bash or Github Desktop, then you should be able to set up this repository pretty easily. 
 
 # Setting Up (for those who are unfamiliar)
 An online repository is used to let multiple people use versioned files. Typically they're used when multiple people are working on the same project, but here we'll just use it for keeping your application up to date. 
